@@ -5,7 +5,7 @@ An example Android project to demonstrate [SourceClear](https://www.sourceclear.
 
 ## Try me!
 
-Start by [installing the agent](https://www.sourceclear.com/docs/command-line-interface/).
+Start by [installing the agent](https://www.sourceclear.com/docs/command-line-interface/). 
 
 Clone this project:
 
